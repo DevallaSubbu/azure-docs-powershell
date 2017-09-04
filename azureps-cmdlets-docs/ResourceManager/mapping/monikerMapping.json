@@ -9,8 +9,8 @@
                 "_type": "conceptual",
                 "_version": "4.3.1"
             },
-            "AzureRM.Storage": {
-                "_displayName": "AzureRM.Storage",
+            "Azure.Storage": {
+                "_displayName": "Azure.Storage",
                 "_version": "v3.3.1"
             }
         }
