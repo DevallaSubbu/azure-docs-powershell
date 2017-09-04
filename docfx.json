@@ -372,6 +372,7 @@
             "ms.devlang": "powershell"
         },
         "dest": "azureps",
+        "xref": ["dotnet-xref/_zip/dotnet.zip"],
         "lruSize": 0
     }
 }
